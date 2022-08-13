@@ -1,8 +1,8 @@
 {
     "env": {
-        "API_ID": {"description": "Get this value from https://my.telegram.org"},
-        "API_HASH": {"description": "Get this value from https://my.telegram.org"},
-        "BOT_TOKEN": {
+        "ID": {"description": "Get this value from https://my.telegram.org"},
+        "HASH": {"description": "Get this value from https://my.telegram.org"},
+        "TOKEN": {
             "description": "[BOT MODE] - Get this from https://t.me/botfather",
             "required": false}
     },
